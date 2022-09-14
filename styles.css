@@ -1,0 +1,38 @@
+.section1{
+    display: inline;
+    color:black;
+    font-size: medium;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.section2{
+    
+    background-color: lavender ;
+}
+
+li{
+
+display: inline;
+}
+
+body{
+    background-color: black;
+}
+
+.image1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    height: 400px;
+    width: auto;
+}
+
+.header{
+    color:white;
+}
+
+.designer{
+    color:white;
+}
